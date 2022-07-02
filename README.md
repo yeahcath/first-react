@@ -45,7 +45,7 @@ Você pode visualizar o projeto [AQUI](Link)
     
     Acesse a pasta do projeto no terminal/cmd
     
-    $ cd calma-senhora
+    $ cd first-react
     
       
     
@@ -77,4 +77,3 @@ Você pode visualizar o projeto [AQUI](Link)
 
 Feito por Catharine 🙋 [Entre em contato!](https://www.linkedin.com/in/catharine-augusto/)
 
-# primeiro-react
