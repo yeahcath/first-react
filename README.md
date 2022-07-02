@@ -4,14 +4,14 @@
   
   > Status do Projeto: Em desenvolvimento :warning:
 
-# :loudspeaker: Sobre
+## :loudspeaker: Sobre
 
   
 
 Um site criado para praticar os aprendizados em REACT e compilar os principais assuntos abordados durante o curso da Reprograma até aqui. Contém descrições dos conteúdos e o que aprendi no processo.
   
 
-# :hammer: Tecnologias
+## :hammer: Tecnologias
 
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="40"  />
 
@@ -23,7 +23,7 @@ Um site criado para praticar os aprendizados em REACT e compilar os principais a
 
   
 
-# :eyes: Acesso
+## :eyes: Acesso
 
   
 
@@ -32,7 +32,7 @@ Você pode visualizar o projeto [AQUI](Link)
   
   
 
-# :rocket: Como rodar a aplicação
+## :rocket: Como rodar a aplicação
 
   
   
